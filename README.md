@@ -9,6 +9,8 @@ This is a little simple version of OCR that utilizing pyautogui to detect number
   * Pyautogui detect image, therefore, being binded by the image detecting time of cv2 (can be improved by changing the way this script scan through it image list
 
  Just a quick-note, this script can autoclick and buy off the object that have the auction amount it feel the best.Hence, a little combination of OCR, Non-Ai-Stimulator autoclick based on a pre-set amount of resource that user feel comfortable to buy and send away without monitoring
+ 
+ This could be considered as one of the most confused script that I've ever written up to now(2022) due to it core-value of dealing with list and iteration
 
 ## Demonstration:
 
